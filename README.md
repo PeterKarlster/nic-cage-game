@@ -1,0 +1,1 @@
+A textual game made to aquire HTML, CSS and Javascript experience.
